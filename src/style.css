@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-    --default-font-family: "Source Sans 3", "sans-serif";
+    --default-font-family: "Source Sans 3", "Arial", "sans-serif";
     --font-serif: "Playfair Display", "serif";
     
 }
